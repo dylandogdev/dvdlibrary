@@ -1,4 +1,4 @@
-#DVD Library
+#dvdlibrary
 ## A Java console application untilizing Spring MVC and AOP
 
 *This doc is under construction!*
